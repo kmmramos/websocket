@@ -1,4 +1,4 @@
-# WebSocket Backend for Your Chat Application
+# WebSocket Backend for Websocket Chat Application
 
 This is the backend server for a real-time chat application implemented using WebSocket. It provides the server-side functionality to handle WebSocket connections, message broadcasting, and other related features.
 
